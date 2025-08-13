@@ -1,5 +1,7 @@
 # Spotify Clone
 
+**Live Demo:** [Explore UniHive](https://tranquil-faloodeh-331ef2.netlify.app/)
+
 Spotify Clone is a responsive web application built using React, Vite, Tailwind CSS, and React Router. It mimics Spotify's core user interface and functionality, featuring dynamic navigation, an interactive sidebar, and a custom audio player managed via context.
 
 ## Features
